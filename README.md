@@ -82,4 +82,4 @@ Project is: Ongoing.
 Got help from Kaggle,Github and other resources.
 
 ## Contact
-Created by (@adrija30) - feel free to contact me!
+Created by (@https://github.com/Adrija30/Breast-Cancer-prediction/commits?author=Adrija30) - feel free to contact me!
